@@ -1,0 +1,2 @@
+Os Testes de Unidade são mais baratos e rápidos, enquanto os Testes Funcionais são mais caros e lentos.
+Os Testes Funcionais são mais difíceis de escrever que os Testes Unitários, além dos Testes Funcionais serem mais frágeis que os Testes de Unidade, podendo quebrar devido a pequenas mudanças na interface.
